@@ -58,6 +58,7 @@ enableCodeCopy = true
 [sitemap]
   excludedKinds = []
 
+
 [taxonomy]
   showTermCount = true
 

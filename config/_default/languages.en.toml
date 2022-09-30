@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Jess Vimm"
-# logo = "img/logo.png"
+logo = "jessGopher.png"
 description = "Jess Vimm's website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Jess Vimm"
-  image = "img/blowfish_logo.png"
+  image = "jess.png"
   headline = "Hi, I'm Jess! Welcome to my website. Soon it will be completed!"
   bio = "A little bit about you"
   links = [
